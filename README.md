@@ -4,4 +4,5 @@ This project encapsulates the various factors affecting life expectancy in the y
 The dataset is collected from the source Kaggle. It is the collection of health data from the year 2000 to 2019 obtained from the Global Health Observatory (GHO) resource. The data includes different variables responsible for the life expectancy of a human and causes of mortality. Disease burden depicts the loss of the equivalent of one year of full health, which is calculated using disability-adjusted life year (DALY). It counts in different numbers for different diseases. The data is huge containing 147 columns and 1464 rows. The columns represent various attributes that serve as the factors responsible for affecting life expectancy. 
 The source link for the data used in the project is provided below: 
 https://www.kaggle.com/datasets/adamsmith852/life-expectancy-data-gho
+The interactive dashboard of life expectancy:
 ![image](https://github.com/priyamuvvala/Life-Expectancy/assets/130201191/09c8f768-2d68-41c0-93a1-17c8a8c7caf9)
